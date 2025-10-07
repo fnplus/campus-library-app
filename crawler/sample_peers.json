@@ -1,0 +1,42 @@
+[
+  {
+    "name": "alice-laptop",
+    "address": "192.168.1.23",
+    "resources": [
+      {
+        "title": "Discrete Mathematics Cheat Sheet",
+        "description": "Quick reference covering sets, combinatorics, and graph basics.",
+        "category": "notes",
+        "tags": ["math204", "revision"],
+        "peer_location": "http://192.168.1.23:9000/discrete-math.pdf"
+      },
+      {
+        "title": "Signals & Systems Lecture Videos",
+        "description": "Week 3 lab walkthroughs recorded for the ECE lab.",
+        "category": "media",
+        "tags": ["ece202", "labs"],
+        "peer_location": "http://192.168.1.23:9001/signals-week3.mp4"
+      }
+    ]
+  },
+  {
+    "name": "library-pc",
+    "address": "192.168.1.50",
+    "resources": [
+      {
+        "title": "Organic Chemistry Practice Problems",
+        "description": "150+ practice questions aggregated from senior notes.",
+        "category": "books",
+        "tags": ["chem310", "practice"],
+        "peer_location": "http://192.168.1.50:8080/organic-chemistry-practice.pdf"
+      },
+      {
+        "title": "Python for Data Analysis (O'Reilly)",
+        "description": "eBook reference for pandas workflows.",
+        "category": "books",
+        "tags": ["data-science", "python"],
+        "peer_location": "http://192.168.1.50:8080/python-for-data-analysis.pdf"
+      }
+    ]
+  }
+]
